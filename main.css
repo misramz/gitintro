@@ -40,7 +40,8 @@ h5 {
   color: grey;
   font-size: 12px;
 }
-.iron {
-  font-weight: 500;
 
+.iron {
+  font-weight: bold;
+  font-size:18px;
 }
